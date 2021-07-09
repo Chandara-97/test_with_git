@@ -7,17 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>
-        hello world
-    </h1>
-    jhjksdhfjkasdf
-    <h1>
-    //i love leav chandara
-    </h1>
 
-    <h1>
-    //i love boreyjr
-    </h1>
     <h1>
     //i love hysothyrith
     </h1>
