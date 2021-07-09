@@ -1,5 +1,5 @@
 <?php 
 
-echo "ach ko borey JR";
+echo "asjkdfhlksadfhjlkashf"
 #echo sdflkjaksdf
 ?>
